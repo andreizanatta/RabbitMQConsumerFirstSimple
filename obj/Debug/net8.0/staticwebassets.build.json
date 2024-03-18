@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xPrTcgxJvcmP5CjDBo5OrkruaoE8IRHyFKHO5U45p5A=",
+  "Source": "RabbitMQVazioConsumer",
+  "BasePath": "_content/RabbitMQVazioConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
